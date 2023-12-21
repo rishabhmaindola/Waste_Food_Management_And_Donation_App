@@ -1,2 +1,1 @@
-# Food-Donation-App_ReCustomize
-My First App Re Customize(add notification)
+Feedie Food Rescue, facilitating the donation of excess food from the service industry to qualified charities assisting the needy the platform aims to reduce food waste by efficiently connecting surplus food providers with charitable organizations.
